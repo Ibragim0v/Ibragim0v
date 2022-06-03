@@ -1,7 +1,7 @@
 ### As-Salamu Aleykum, Everyone 👋
 <!-- 
 ![18a4949fc9c8067172d3b96e302e7097](https://user-images.githubusercontent.com/99003694/170985315-baea4d10-6bd9-42b3-b477-5e9ff7941eb3.gif) -->
-![wrapper-img](https://user-images.githubusercontent.com/99003694/171804721-97938bed-0445-4804-9161-fa650db54911.gif)
+                   ![wrapper-img](https://user-images.githubusercontent.com/99003694/171804721-97938bed-0445-4804-9161-fa650db54911.gif)
 
 - 🤝 You are viewing my personal github profile called @Ibragim0v at the moment! 
 - 💬 My name is Amirshoh and I am now 16 years old.
