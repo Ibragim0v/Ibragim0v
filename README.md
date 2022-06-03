@@ -3,7 +3,7 @@
 ![wrapper-img](https://user-images.githubusercontent.com/99003694/171804721-97938bed-0445-4804-9161-fa650db54911.gif)
 
 - 🤝 You are viewing my personal github profile called @Ibragim0v at the moment! 
-- 💬 My name is Amirshoh and I am now 16 years old.
+- 💬 My name is Amirshoh and I am 16 years old.
 - 🗣 I know four different languages: Uzbek (Native), English (B1), Arabic (writing and reading), Rus (A2)
 - 💻 I am a Full-Stack Javascript Developer and I studied at the <<Najot Ta'lim>> Academy.
 - ⚡️ I have over 40 projects in my portfolio
