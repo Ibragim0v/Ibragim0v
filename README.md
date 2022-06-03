@@ -1,4 +1,4 @@
-### As-Salamu Aleykum, Everyone 👋
+### Assalom-u Aleykum, Everyone 👋
 
 ![wrapper-img](https://user-images.githubusercontent.com/99003694/171804721-97938bed-0445-4804-9161-fa650db54911.gif)
 
