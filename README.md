@@ -1,9 +1,10 @@
 ### As-Salamu Aleykum, Everyone 👋
+<!-- 
+![18a4949fc9c8067172d3b96e302e7097](https://user-images.githubusercontent.com/99003694/170985315-baea4d10-6bd9-42b3-b477-5e9ff7941eb3.gif) -->
+![wrapper-img](https://user-images.githubusercontent.com/99003694/171804721-97938bed-0445-4804-9161-fa650db54911.gif)
 
-![18a4949fc9c8067172d3b96e302e7097](https://user-images.githubusercontent.com/99003694/170985315-baea4d10-6bd9-42b3-b477-5e9ff7941eb3.gif)
-
-- 🤝 You are viewing my personal github profile called Ibragimov at the moment! 
-- 💬 My name is Amirshoh. I was born in 2006 in Uzbekistan.I am now 16 years old.
+- 🤝 You are viewing my personal github profile called @Ibragim0v at the moment! 
+- 💬 My name is Amirshoh and I am now 16 years old.
 - 🗣 I know four different languages: Uzbek (Native), English (B1), Arabic (writing and reading), Rus (A2)
 - 💻 I am a Full-Stack Javascript Developer and I studied at the <<Najot Ta'lim>> Academy.
 - ⚡️ I have over 40 projects in my portfolio
